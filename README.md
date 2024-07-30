@@ -9,10 +9,10 @@ The dataset has been downloaded and extracted into the data subdirectory. So the
 
 ## Tools
 
--Numpy
--Pandas
--Matplotlib
--Seaborn
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Prerequisites
 
