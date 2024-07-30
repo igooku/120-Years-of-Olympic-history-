@@ -7,16 +7,12 @@ This is a small data analysis project using the 120 years of Olympic history: at
 
 The dataset has been downloaded and extracted into the data subdirectory. So there's no need to download it after cloning this repository.
 
-## How to use this
+## Tools
 
-To use this, you need the following Python libraries (in addition to Python itself, of course):
-
-Numpy
-Pandas
-Matplotlib
-The simplest way to get all of these installed is to simply install Anaconda. The code in the notebooks uses Python 3.
-
-To open the notebook, just run jupyter notebook from the project root directory.
+-Numpy
+-Pandas
+-Matplotlib
+-Seaborn
 
 ## Prerequisites
 
