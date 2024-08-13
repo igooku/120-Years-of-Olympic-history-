@@ -1,4 +1,4 @@
-# 120-Years-of-Olympic-history-
+# 120 Years of Olympic History
 
 ## Summary:
 
