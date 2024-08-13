@@ -3,9 +3,7 @@ This is a simple practice data analysis project. The aim is simply to learn Pand
 
 ## Summary:
 
-This is a small data analysis project using the 120 years of Olympic history: athletes and results from Kaggle. The questions that are being "answered" here are all made up. They'll probably get better (or seem more useful) in future revisions. The sole objective is learning.
-
-The dataset has been downloaded and extracted into the data subdirectory. So there's no need to download it after cloning this repository.
+In this project, I utilized the principles of Exploratory Data Analysis(EDA) to analyse the inside of 120 years of Olympic history. Firstly, I analyse athletes' age distribution and gender distribution participation in 120 years of the Olympics. Secondly, I found the athlete who had won the most medals in history. Subsequently, I identified countries with the most gold medals and countries with the most gold, silver, and bronze medals. Lastly, I checked which sport has the most medals from the athletes aged over 50.
 
 ## Tools
 
@@ -16,7 +14,7 @@ The dataset has been downloaded and extracted into the data subdirectory. So the
 
 ## Content:
 
-This is about learning Pandas, Numpy, and Matplotlib. One is expected to have Python knowledge (although I don't) and know how to use the Jupyter environment.
+In this Dataset, we have history of athletes perticipated in olympics from all over the world. The Dataset also inculde Medals won by athletes in different sport.
 
 ## Dataset:
 
