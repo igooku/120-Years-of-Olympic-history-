@@ -1,5 +1,4 @@
 # 120-Years-of-Olympic-history-
-This is a simple practice data analysis project. The aim is simply to learn Pandas, Numpy, Matplotlib, and related Python-based data analysis tools.
 
 ## Summary:
 
